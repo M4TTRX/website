@@ -1,4 +1,16 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://matthieu-roux.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Matthieu Roux'
 theme = 'gallery'
+timeZone = "Europe/Berlin"
+enableRobotsTXT = true
+copyright = "© Matthieu Roux All rights to photos reserved"
+publishDir = "docs"
+
+[params]
+  [params.author]
+    email = "contact@matthieu-roux.com"
+    name = "Matthieu Roux"
+  [params.socialIcons]
+    github = "https://github.com/M4TTRX"
+    email = "mailto:contact@matthieu-roux.com"

@@ -1,10 +1,16 @@
 ---
-description: Welcome to my website. Although I am a software engineer, this site you will mostly find photography and some other things I enjoy here.
-title: Matthieu roux
-# featured_image on the home page is used for OpenGraph cards, etc.
+layout: page
+description: 
+    Software Developer
+title: Matthieu Roux
 menus:
   main:
-    name: Home
+    name: 🏠 Home
     weight: -1
-# sub-galleries on list pages are sorted by date and weight (descending)
 ---
+
+### Hi there 👋
+
+Welcome to my personal website. For now, it is mostly dedicated to sharing photos I have taken during my travels and hikes. I hope you enjoy them!
+
+[Link to photos](/photos)
