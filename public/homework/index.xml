@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photo Club homework on My New Hugo Site</title>
+    <link>http://localhost:1313/homework/</link>
+    <description>Recent content in Photo Club homework on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/homework/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1. My World</title>
+      <link>http://localhost:1313/homework/my-world/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homework/my-world/</guid><media:content url="http://localhost:1313/homework/my-world/01_DJ_hu15190d4c99d42952cb3bba895ebf0b07_12038592_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/homework/my-world/01_DJ_hu15190d4c99d42952cb3bba895ebf0b07_12038592_900x600_fill_box_smart1_3.png&quot; /&gt;
+          &lt;p&gt;Theme was my world. The images include things that are part of my life, things I enjoy or don&#39;t.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
