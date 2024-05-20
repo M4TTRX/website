@@ -2,25 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/photos/homework/my-world/</loc>
+    <loc>https://matthieu-roux.com/photos/homework/my-world/</loc>
     <lastmod>2024-02-20T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/photos/homework/</loc>
+    <loc>https://matthieu-roux.com/photos/homework/</loc>
     <lastmod>2024-02-20T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/photos/2023_queyras/</loc>
+    <loc>https://matthieu-roux.com/photos/2023_queyras/</loc>
     <lastmod>2023-08-21T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/photos/</loc>
+    <loc>https://matthieu-roux.com/photos/</loc>
     <lastmod>2024-02-20T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://matthieu-roux.com/</loc>
     <lastmod>2024-02-20T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/home/</loc>
+    <loc>https://matthieu-roux.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://matthieu-roux.com/tags/</loc>
   </url>
 </urlset>
