@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Matthieu Roux</title>
-    <link>https://matthieu-roux.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Matthieu Roux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>contact@matthieu-roux.com (Matthieu Roux)</managingEditor>
     <webMaster>contact@matthieu-roux.com (Matthieu Roux)</webMaster>
-    <copyright>© Matthieu Roux All rights to photos reserved</copyright><atom:link href="https://matthieu-roux.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Matthieu Roux All rights to photos reserved</copyright><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

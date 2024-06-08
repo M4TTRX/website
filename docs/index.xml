@@ -2,30 +2,48 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matthieu Roux</title>
-    <link>https://matthieu-roux.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Matthieu Roux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>contact@matthieu-roux.com (Matthieu Roux)</managingEditor>
     <webMaster>contact@matthieu-roux.com (Matthieu Roux)</webMaster>
     <copyright>© Matthieu Roux All rights to photos reserved</copyright>
-    <lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://matthieu-roux.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1. My World</title>
-      <link>https://matthieu-roux.com/photos/homework/my-world/</link>
+      <link>http://localhost:1313/photos/homework/my-world/</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0100</pubDate><author>contact@matthieu-roux.com (Matthieu Roux)</author>
-      <guid>https://matthieu-roux.com/photos/homework/my-world/</guid><media:content url="https://matthieu-roux.com/photos/homework/my-world/01_DJ_hu15190d4c99d42952cb3bba895ebf0b07_12038592_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
+      <guid>http://localhost:1313/photos/homework/my-world/</guid><media:content url="http://localhost:1313/photos/homework/my-world/01_DJ_hu15190d4c99d42952cb3bba895ebf0b07_12038592_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://matthieu-roux.com/photos/homework/my-world/01_DJ_hu15190d4c99d42952cb3bba895ebf0b07_12038592_900x600_fill_box_smart1_3.png&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/photos/homework/my-world/01_DJ_hu15190d4c99d42952cb3bba895ebf0b07_12038592_900x600_fill_box_smart1_3.png&quot; /&gt;
           &lt;p&gt;Theme was my world. The images include things that are part of my life, things I enjoy or don&#39;t.&lt;/p&gt;
         </description></item>
     <item>
-      <title>Queyras</title>
-      <link>https://matthieu-roux.com/photos/2023_queyras/</link>
-      <pubDate>Mon, 21 Aug 2023 00:00:00 +0200</pubDate><author>contact@matthieu-roux.com (Matthieu Roux)</author>
-      <guid>https://matthieu-roux.com/photos/2023_queyras/</guid><media:content url="https://matthieu-roux.com/photos/2023_queyras/feature_hu96ad2310491201f571cd825b03aae8c2_2803515_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+      <title>Nature Macros</title>
+      <link>http://localhost:1313/photos/nature_macros/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0200</pubDate><author>contact@matthieu-roux.com (Matthieu Roux)</author>
+      <guid>http://localhost:1313/photos/nature_macros/</guid><media:content url="http://localhost:1313/photos/nature_macros/feature_hu15c953ffdbebe1a81915511a75112100_1091785_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://matthieu-roux.com/photos/2023_queyras/feature_hu96ad2310491201f571cd825b03aae8c2_2803515_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/photos/nature_macros/feature_hu15c953ffdbebe1a81915511a75112100_1091785_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;Close ups of bushes and flowers during hikes in Reunion&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Reunion 2023</title>
+      <link>http://localhost:1313/photos/reunion_2023/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0200</pubDate><author>contact@matthieu-roux.com (Matthieu Roux)</author>
+      <guid>http://localhost:1313/photos/reunion_2023/</guid><media:content url="http://localhost:1313/photos/reunion_2023/feature_hu8a5dc2257c3889202170304e26792977_1895495_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/photos/reunion_2023/feature_hu8a5dc2257c3889202170304e26792977_1895495_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;Photos taken during Reunion tip&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Queyras</title>
+      <link>http://localhost:1313/photos/2023_queyras/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0200</pubDate><author>contact@matthieu-roux.com (Matthieu Roux)</author>
+      <guid>http://localhost:1313/photos/2023_queyras/</guid><media:content url="http://localhost:1313/photos/2023_queyras/feature_hu96ad2310491201f571cd825b03aae8c2_2803515_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/photos/2023_queyras/feature_hu96ad2310491201f571cd825b03aae8c2_2803515_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
           &lt;p&gt;Photos from hikes during my trip to the Queyras in the French Alps.&lt;/p&gt;
         </description></item>
   </channel>
